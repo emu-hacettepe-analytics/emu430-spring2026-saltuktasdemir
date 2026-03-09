@@ -1,5 +1,24 @@
-# EMU430 Data Analytics Quarto Template
+# Saltuk's Data Analytics Website
 
-A quarto template provided by the EMU 430 Data Analytics course. This template is designed for course students to establish their personal websites, publish their individual course assignments, and engage in other analytic tasks.
+A personal Quarto website created for the **EMU 430 Data Analytics** course.\
+This site includes my course assignments, analyses, and other analytic work.
 
-Please update this readme. me according to your personal website and assignments if necessary.
+## About
+
+-   **Name:** Saltuk Buğrahan
+-   **Surname:** Taşdemir
+-   **Course:** EMU 430 – Data Analytics
+-   **University:** Hacettepe University
+
+## Assignments
+
+| Assignment   | Topic                       | Link      |
+|--------------|-----------------------------|-----------|
+| Assignment 1 | Video review                | [View](#) |
+| Assignment 2 | Data Cleaning & NA Handling | [View](#) |
+
+## Tools Used
+
+-   R & RStudio
+-   Quarto
+-   dslabs, tidyverse packages
