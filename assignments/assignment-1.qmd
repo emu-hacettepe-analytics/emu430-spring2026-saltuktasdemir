@@ -12,4 +12,20 @@ My first assignment has two parts.
 
 ## (a)
 
+**Question:** The speaker shares that throughout his career he deliberately avoided over-specializing in a single method, and instead worked across supply chain optimization, pricing, software development, and product management. Drawing on his experiences, discuss the trade-offs between being a deep specialist versus a generalist in the analytics field. Under what conditions might one approach be more advantageous than the other?
+
+**Answer:** The speaker's career illustrates that breadth can be an asset — he was able to lead technical projects, communicate with end users, handle deployment, and even build and sell his own product (Supply Chain Solver) precisely because he understood multiple layers of the pipeline. However, he also acknowledges that the core 1% of a project — the actual optimization model — can only be written by a specialist. A strong answer would argue that in early-career stages, depth in one area (e.g., mathematical modeling) builds credibility, while breadth becomes increasingly valuable as one moves toward senior or product-facing roles.
+
 ## (b)
+
+**Question:** The speaker describes building a product called "Supply Chain Solver" independently. Which of the following challenges did he identify as the hardest part of that experience?\
+
+-   A\) Writing the mathematical optimization model
+
+-   B\) Choosing the right programming language
+
+-   C\) Selling the product and managing customer relationships
+
+-   D\) Finding a cloud deployment platform
+
+**Answer:** **C)** He describes sales as "one of the hardest things in the world" — noting that technical excellence alone is insufficient without strong connections, political savvy, and the ability to convince customers to switch from their existing tools.
