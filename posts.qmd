@@ -1,6 +1,12 @@
 ---
-title: "My Blog"
-sidebar: false 
+title: "My Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  fields: [image, title, date, description, categories]
+sidebar: false
 ---
 
 This page is under construction.

@@ -1,0 +1,11 @@
+---
+title: "Snob"
+date: 2022-08-22
+description: "Benji Burger, üstündeki mac & cheese top güzeldi. Güncellenmiş menüsünde köftesi 100 gr kesinlikle göz, karın  doyurmaz. Ek köfte ve bacon lezzeti katlar.  ."
+categories: [Istanbul, Bağdat Caddesi]
+image: Snob.jpeg
+---
+
+![](images/clipboard-1165711951.png)
+
+**\*\*Rate:** 9 / 10**\*\***

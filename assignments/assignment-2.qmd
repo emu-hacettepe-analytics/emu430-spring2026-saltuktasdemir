@@ -5,58 +5,5 @@ title: "Assignment 2"
 # Assignment 2
 
 ```{r}
-library(dslabs)
-data(polls_us_election_2016)
 
-my_first <- "Saltuk"
-my_birth_year <- 2000
-k <- (nchar(my_first) + my_birth_year) %% 15 + 8
-
-if (k %% 2 == 0) {
-  head(polls_us_election_2016, k)
-} else {
-  tail(polls_us_election_2016, k)
-}
-
-total_na <- sum(is.na(polls_us_election_2016))
-print(total_na)
-
-column_na <- colSums(is.na(polls_us_election_2016))
-
-sequence_column_na <- sort(column_na, decreasing = TRUE)
-
-head(sequence_column_na, 8)
-
-new_data <- polls_us_election_2016
-
-for (col in names(new_data)) {
-  x <- new_data[[col]]
-  
-  if (is.numeric(x)) {
-  
-    x[is.na(x)] <- my_birth_year + k
-    
-  } else if (is.character(x)) {
-    
-    x[is.na(x)] <- paste0(my_first, "", k)
-    
-  } else if (is.factor(x)) {
-   
-    levels(x) <- c(levels(x), paste0(my_first, "", k))
-  
-    x[is.na(x)] <- paste0(my_first, "", k)
-  }
-  
-  new_data[[col]] <- x
-}
-
-if (k %% 2 == 0) {
-  head(new_data, k)
-} else {
-  tail(new_data, k)
-}
-kalan_na <- sum(is.na(new_data))
-print(kalan_na)
-
-print(anyNA(new_data))
 ```
