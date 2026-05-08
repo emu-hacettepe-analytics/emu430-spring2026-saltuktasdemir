@@ -28,6 +28,33 @@
     "text": "Internships\n\nFirm aaa, position xx, year xxx\nFirm bbb, position yyy, year yyy"
   },
   {
+    "objectID": "posts:/Snob.html",
+    "href": "posts:/Snob.html",
+    "title": "Snob",
+    "section": "",
+    "text": "**Rate: 9 / 10**\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/assignment-2.html",
+    "href": "assignments/assignment-2.html",
+    "title": "Assignment 2",
+    "section": "",
+    "text": "Assignment 2\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Assignment 2"
+    ]
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "My Assignments",
+    "section": "",
+    "text": "On this page, I showcase the assignment I conducted for the Spring 2026 EMU430 Data Analytics course.\nPlease use the left menu to navigate through my assignments.\nThe most recent update to this page was made on 09/03/2026.\n\n\n\n Back to top",
+    "crumbs": [
+      "My Assignments"
+    ]
+  },
+  {
     "objectID": "assignments/assignment-1.html",
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
@@ -58,26 +85,6 @@
     ]
   },
   {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "My Assignments",
-    "section": "",
-    "text": "On this page, I showcase the assignment I conducted for the Spring 2026 EMU430 Data Analytics course.\nPlease use the left menu to navigate through my assignments.\nThe most recent update to this page was made on 09/03/2026.\n\n\n\n Back to top",
-    "crumbs": [
-      "My Assignments"
-    ]
-  },
-  {
-    "objectID": "assignments/assignment-2.html",
-    "href": "assignments/assignment-2.html",
-    "title": "Assignment 2",
-    "section": "",
-    "text": "Assignment 2\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Assignment 2"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My Analytics Lab",
@@ -90,12 +97,5 @@
     "title": "My Posts",
     "section": "",
     "text": "This page is under construction.\n\n\n\n\n\n\n\n\nNo matching items\n Back to top"
-  },
-  {
-    "objectID": "posts:/Snob.html",
-    "href": "posts:/Snob.html",
-    "title": "Snob",
-    "section": "",
-    "text": "**Rate: 9 / 10**\n\n\n\n Back to top"
   }
 ]
